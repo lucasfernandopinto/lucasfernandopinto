@@ -1,9 +1,9 @@
 ### Olá, eu sou o Lucas Fernando Pinto!
 
 <div>
-  <a href="https://github.com/LucasFPint0">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasfpint0&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfpint0&layout=compact&langs_count=16&theme=radical"/>
+  <a href="https://github.com/lucasfp-dev">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasfp-dev&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfp-dev&layout=compact&langs_count=16&theme=radical"/>
  <div>
  
  <div style="display: inline_block"><br>
