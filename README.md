@@ -28,6 +28,12 @@
   <img align="center" alt="Lucas-Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Lucas-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-IntelliJ" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
+  <img align="center" alt="Lucas-VScode" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Lucas-GitHub" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  
+  
+ 
 </div>
 
 <br>
