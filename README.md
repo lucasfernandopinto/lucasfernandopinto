@@ -2,7 +2,7 @@
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
-## 💡 Sobre mim:
+## 💡 Sobre mim
 
  - 😁 *Me chamo Lucas Fernando Pinto e sou do Paraná;* 
 
