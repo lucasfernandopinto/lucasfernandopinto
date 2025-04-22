@@ -8,7 +8,7 @@
 
  - 🎓 *Sou estudante de Análise e Desenvolvimento de Sistemas no IFPR;* 
 
- - 💻 *Possuo 3 anos de experiência como QA;*
+ - 💻 *Possuo 4 anos de experiência como QA;*
 
  - 👨‍💻 *Buscando realocação para área de Desenvolvimento de Software;*
  
